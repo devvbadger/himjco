@@ -2,7 +2,7 @@
 - 👀 I’m interested in: Programming
 - 🌱 I’m currently learning: Java and Html
 - 💞️ I’m looking to collaborate on: Developing a website......
-- 📫 How to reach me: Reach me at my discord
+- 📫 How to reach me: Reach me at my discord @badger05169
 - ⚡ Fun fact: I hate programming sm!
 
 <!---
