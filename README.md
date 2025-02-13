@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Cloud Native Projects**
 
-- 💬 Ask me about **Basic programming**
-
 - 📫 How to reach me **theeasybadger@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
